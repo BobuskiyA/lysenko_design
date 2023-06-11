@@ -1,0 +1,40 @@
+.title{
+   margin: 32px 0 !important; 
+}
+
+.text{
+   margin: 12px 0 0 0; 
+   text-align: center !important; 
+}
+
+
+.block-text {}
+
+.block-text__title {
+   font-weight: 600;
+   font-size: 18px;
+   margin-bottom: 12px;
+   text-transform: uppercase;
+}
+
+.block-text__text  {
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 24px;
+}
+
+.block-text__list {
+   list-style: unset;
+   margin-left: 26px;
+   margin-bottom: 32px;
+}
+
+.block-text__item {
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 24px;
+}
+
+.block-text__text, .block-text__list{
+   opacity: 0.8;
+}
